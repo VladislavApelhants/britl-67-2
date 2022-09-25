@@ -46,7 +46,8 @@ header .container {
 .hero {
     padding-top: 50px;
     padding-bottom: 70px;
-    background-color: aqua;
+    background: rgb(2, 0, 36);
+    background: linear-gradient(90deg, rgba(2, 0, 36, 1) 11%, rgba(9, 9, 121, 1) 40%, rgba(202, 255, 0, 1) 81%);
 }
 
 .hero .container {
